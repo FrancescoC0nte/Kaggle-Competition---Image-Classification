@@ -19,7 +19,10 @@ The repository is organized as follows:
 ```text
 .
 ├── Code/                        # Model implementations and preprocessing scripts
-│    └── ...
+│    └── DatasetCleaning.ipynb
+│    └── FineTunedConvNeXt.ipynb
+│    └── FineTunedTransformer.ipynb
+│    └── ResNetFromScratch.ipynb
 ├── Project Report.pdf           # Report for the AN2DL Second Challenge
 └── README.md
 ```
